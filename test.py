@@ -6,8 +6,8 @@ import matplotlib.pyplot as plt
 import pprint
 import sklearn
 # %matplotlib inline
-# /Users/daisyrheadharwadkar/Downloads/silon.csv
-path = "/Users/daisyrheadharwadkar/Downloads/silon.csv"
+
+path = "/silon.csv"
 df= pd.read_csv(path)
 
 dataset=df
